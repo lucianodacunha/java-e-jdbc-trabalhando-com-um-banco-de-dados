@@ -1,0 +1,4 @@
+host=localhost
+database=byte_bank
+user=root
+passwd=root
